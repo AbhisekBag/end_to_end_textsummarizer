@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: a small package for NLP app
+Home-page: https://github.com/AbhisekBag/end_to_end_textsummarizer
+Author: AbhisekBag
+Author-email: iabhisekbag@gmail.com
+Project-URL: Bug Tracker, https://github.com/AbhisekBag/end_to_end_textsummarizer/issues
+License-File: LICENSE
+
+# end_to_end_textsummarizer
